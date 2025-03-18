@@ -21,7 +21,7 @@ O foco principal foi o desenvolvimento da lógica em **JavaScript**, utilizando 
 
 ---
 
-## 🛠 Tecnologias Empregadas
+##  Tecnologias Empregadas
 
 - **JavaScript** - Desenvolvimento da lógica do sorteio  
 - **HTML** - Construção da estrutura do aplicativo  
